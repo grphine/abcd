@@ -1,0 +1,6 @@
+framework module Pods_abcdUITests {
+  umbrella header "Pods-abcdUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
